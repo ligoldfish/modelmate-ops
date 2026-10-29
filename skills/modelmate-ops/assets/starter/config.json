@@ -1,0 +1,6 @@
+{
+  "data_file": "data/linear64.jsonl",
+  "output_root": "outputs",
+  "steps": 200,
+  "learning_rate": 0.2
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ModelMate 平台部署"
+  short_description: "优先SSH，兼容网页Terminal，带用户完成代码部署、训练提交与结果回收"
+  default_prompt: "请使用 $modelmate-ops，从我的平台入口和项目代码开始，优先通过SSH完成部署、测试、训练提交指引与结果回收。"
